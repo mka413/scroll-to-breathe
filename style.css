@@ -1,8 +1,8 @@
 
 
 @font-face {
-  font-family: 'Halisun';
-  src: url('fonts/HalisunDemo.woff') format('woff');
+  font-family: 'halisun';
+  src: url('fonts/halisunDemo.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -23,7 +23,7 @@ body {
      because the body cannot exceed 100% of the viewport. */
   margin: 0;
   padding: 0;
-  font-family: "Halisun", sans-serif;
+  font-family: "halisun", sans-serif;
   /* Default background; JavaScript overwrites this with HSL values */
   background-color: hsl(200, 60%, 60%);
   overflow-y: scroll;
